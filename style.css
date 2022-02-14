@@ -7,7 +7,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: solid red 2px;
     font-family: 'Outfit', sans-serif;
 }
 
